@@ -32,7 +32,9 @@ Mailchimp heeft ook API waarmee je met PHP kan werken,
 maar dit lossen we op met frontend (met jquery).
 #### Belangrijk! gebruik van required in input veld is niet de bedoeling 
 <input text="" required /> <-- nee!
+
 VERKEERD ---> https://www.jquery-az.com/boots/demo.php?ex=54.0_1
+
 GOED ---> zie volgende url https://www.jquery-az.com/boots/demo.php?ex=54.0_2
 
 Mailchimp geeft altijd een error melding. 
